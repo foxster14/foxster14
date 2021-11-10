@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foxster14
+- 👋 Hi, I’m Sarah Fox
 - 👀 I’m interested in UI/UX & machine learning
 - 🌱 I’m currently learning various methods for software testing
 
