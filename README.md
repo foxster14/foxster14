@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sarah Fox
 - 👀 I’m interested in full stack development & UI/UX Design
-- 🌱 I’m currently a software engineering student in my senior year
-- ✨ I work as an academic tutor for math & programming
+- 🌱 I’m currently a Software Engineer II for Honeywell Aerospace
 
 <!---
 foxster14/foxster14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
